@@ -1,5 +1,4 @@
-### Hai Salam Kenal, Namaku Daffa' Gifari Akmal 👋
-- 🐍 Saat ini sedang belajar Python & JavaScript 👨‍💻
+### 🐍 Saat ini sedang belajar Python & JavaScript 👨‍💻
 
 ![Dagimal's GitHub stats](https://github-readme-stats.vercel.app/api?username=dagimal&show_icons=true&theme=default&count_private=true)
 
