@@ -3,6 +3,7 @@
   + Hi, nice to meet you! 😄 <br>
   + I love creating new ideas using technology. 💻 <br>
   + Have a nice day! 😉 <br>
+  + Lifelong Learner 👨‍💻 <br>
 </p>
 
 ```console
