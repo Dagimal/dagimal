@@ -10,8 +10,8 @@
 ```console
 dagimal@K4tsu:~$ cat /etc/os-release | grep NAME && echo "$SHELL"
 NAME="Linux Mint"
-PRETTY_NAME="Linux Mint 20.1"
-VERSION_CODENAME=ulyssa
+PRETTY_NAME="Linux Mint 20.2"
+VERSION_CODENAME=uma
 UBUNTU_CODENAME=focal
 /usr/bin/fish
 ```
