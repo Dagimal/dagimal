@@ -1,5 +1,5 @@
 ```console
-dagimal@K4tsu:~$ cat /etc/os-release | grep NAME && echo "$SHELL"
+dagimal@K4tsu:~$ cat /etc/os-release
 NAME="Linux Mint"
 PRETTY_NAME="Linux Mint 20.2"
 VERSION_CODENAME=uma
