@@ -1,9 +1,9 @@
 ```console
 dagimal@K4tsu:~$ cat /etc/os-release
 NAME="Linux Mint"
-PRETTY_NAME="Linux Mint 20.2"
-VERSION_CODENAME=uma
-UBUNTU_CODENAME=focal
+PRETTY_NAME="Linux Mint 21.1"
+VERSION_CODENAME=vera
+UBUNTU_CODENAME=jammy
 $SHELL := /usr/bin/fish
 $TOOLS := ["NVIM", "VSCODE"]
 ```
